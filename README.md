@@ -41,83 +41,43 @@
 <tr>
 <td valign="top">
 <h3>📱 Building</h3>
+
 <p><b>University Utility App</b></p>
-<p>Creating student app to consolidate everyday campus needs into one UI.</p>
-<img src="https://img.shields.io/badge/TestFlight-Beta-007AFF?style=for-the-badge&logo=testflight&logoColor=white" height="28"/>
+
+<p>Consolidating everyday campus needs into one app.</p>
+
+<p>
+</p>
+
 <br>
-<small><i>Built with Flutter & Dart</i></small>
+
 <!-- Volunteering Section Start -->
 <h3>🤝 Volunteering</h3>
-<p>
-  <a href="https://www.linkedin.com/company/youth-ctrl/about/">
-    <img src="Youth_CTRL_Logo.jpg" alt="Youth CTRL Logo" height="40" style="border-radius:8px;vertical-align:middle; margin-right:10px;">
-  </a>
-  <b style="vertical-align:middle;">Member of Youth CTRL</b><br>
-</p>
+
+<table>
+  <tr>
+    <td width="50px">
+      <a href="https://www.linkedin.com/company/youth-ctrl/about/">
+        <img src="Youth_CTRL_Logo.jpg" alt="Youth CTRL Logo" height="45" style="border-radius:8px;">
+      </a>
+    </td>
+    <td valign="middle">
+      <b>Member of Youth CTRL</b>
+    </td>
+  </tr>
+</table>
 <!-- Volunteering Section End -->
 </td>
 <td valign="top">
 <!-- iOS Style "Now Playing" Playlist Card -->
 <h3>🎧 Now Playing</h3>
-<table width="100%">
-  <tr>
-    <td width="15%">
-        <a href="https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS" target="_blank">
-          <img src="Imaginary_Appalachia.jpg" width="80" style="border-radius: 12px;">
-        </a>
-    </td>
-    <td width="65%">
-        <b>Imaginary Appalachia</b>
-        <br>
-        <small>Colter Wall</small>
-        <br>
-        <small><i>Imaginary Appalachia (Album)</i></small>
-    </td>
-    <td width="20%" align="center">
-        <a href="https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS" target="_blank">
-          <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white" height="25">
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="15%">
-        <a href="https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD" target="_blank">
-          <img src="Lifestyle_ov_da_Poor.jpg" width="80" style="border-radius: 12px;">
-        </a>
-    </td>
-    <td width="65%">
-        <b>Lifestylez Ov Da Poor & Dangerous</b>
-        <br>
-        <small>Big L</small>
-        <br>
-        <small><i>Lifestylez Ov Da Poor & Dangerous (Album)</i></small>
-    </td>
-    <td width="20%" align="center">
-        <a href="https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD" target="_blank">
-          <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white" height="25">
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="15%">
-        <a href="https://www.imdb.com/title/tt12262202/" target="_blank">
-          <img src="Acolyte.jpg" width="80" style="border-radius: 12px;">
-        </a>
-    </td>
-    <td width="65%">
-        <b>The Acolyte</b>
-        <br>
-        <small>Season 1</small>
-        <br>
-        <small><i>TV Show</i></small>
-    </td>
-    <td width="20%" align="center">
-        <a href="https://www.imdb.com/title/tt12262202/" target="_blank">
-          <img src="https://img.shields.io/badge/IMDb-F5C518?style=flat-square&logo=imdb&logoColor=black" height="25">
-        </a>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/simongronseth">
+    <img src="https://simontau-spotify.vercel.app/api/spotify?background_color=1c1c1e&border_color=1c1c1e&bar_color=0A84FF&text_color=fff" alt="Spotify Now Playing" width="100%"/>
+  </a>
+</p>
+
 <br>
 </td>
 </tr>

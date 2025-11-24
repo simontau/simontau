@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simontau&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile views">
+  <sub>⚡ Building Something Cool&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;💬 Response < 24h&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;🕐 CET Timezone</sub>
+</p>
+
+<p align="center">
+  <sub>🇳🇴 Norwegian&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;🇬🇧 English&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;🇩🇰 Danish</sub>
 </p>
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #D1D1D6, transparent); margin: 40px 0;">
@@ -120,6 +124,12 @@
 </table>
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #D1D1D6, transparent); margin: 40px 0;">
+
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simontau/simontau/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <br>
 <p align="center">

@@ -125,12 +125,6 @@
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #D1D1D6, transparent); margin: 40px 0;">
 
-
-<h3 align="center">🐍 Contribution Snake</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/simontau/simontau/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/simon-gr%C3%B8nseth/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>

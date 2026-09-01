@@ -21,7 +21,7 @@
 <h3>🎓 Education</h3>
 <p>Studying <b>Computer Engineering @ AU </b> <br>Based in <b>Aarhus, Denmark</b>.</p>
 <h3>📍 Status</h3>
-<p>Focusing on <b>Software Architecture</b> & <b>Mobile Dev</b>.<br><i>
+<p>Focusing on <b>Mobile app development</b>.<br><i>
 </td>
 <td width="50%" valign="top">
 <h3>🛠 Tech Stack</h3>

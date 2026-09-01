@@ -21,7 +21,7 @@
 <h3>🎓 Education</h3>
 <p>Studying <b>Computer Engineering @ AU </b> <br>Based in <b>Aarhus, Denmark</b>.</p>
 <h3>📍 Status</h3>
-<p>Focusing on <b>Mobile app development</b>.<br><i>
+<p>Focusing on <b>Software Architecture</b> & <b>Mobile Dev</b>.<br><i>
 </td>
 <td width="50%" valign="top">
 <h3>🛠 Tech Stack</h3>
@@ -46,11 +46,8 @@
 
 <p>Consolidating everyday campus needs into one app.</p>
 
-<p>
-</p>
-
-<br>
-
+</td>
+<td valign="top">
 <!-- Volunteering Section Start -->
 <h3>🤝 Volunteering</h3>
 
@@ -67,18 +64,6 @@
   </tr>
 </table>
 <!-- Volunteering Section End -->
-</td>
-<td valign="top">
-<!-- iOS Style "Now Playing" Playlist Card -->
-<h3>🎧 Now Playing</h3>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/simongronseth">
-    <img src="https://simontau-spotify.vercel.app/api/spotify?background_color=1c1c1e&border_color=1c1c1e&bar_color=0A84FF&text_color=fff" alt="Spotify Now Playing" width="100%"/>
-  </a>
-</p>
-
-<br>
 </td>
 </tr>
 </table>

@@ -3,11 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%F0%9F%8E%93;Based+in+Aarhus%2C+Denmark+%F0%9F%87%A9%F0%9F%87%B0;Learning+Flutter+%F0%9F%93%B1;Procrastinating+%E2%98%95" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <sub>⚡ Building Something Cool&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;💬 Response < 24h&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;🕐 CET Timezone</sub>
-</p>
-
 <p align="center">
   <sub>🇳🇴 Norwegian&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;🇬🇧 English&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;🇩🇰 Danish</sub>
 </p>
